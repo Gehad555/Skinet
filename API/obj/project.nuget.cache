@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UrBVpOtYOnY=",
+  "dgSpecHash": "msxkOwB1Z1o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\Skinet\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

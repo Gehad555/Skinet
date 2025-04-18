@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\API\\API.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\Skinet\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\API\\API.csproj": {
+    "C:\\Users\\DELL\\Desktop\\Skinet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Skinet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\API\\API.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\Skinet\\API\\API.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\API\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\Skinet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\DELL\\Desktop\\Skinet\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\DELL\\Desktop\\Skinet\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\Core\\Core.csproj": {
+    "C:\\Users\\DELL\\Desktop\\Skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\Skinet\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\Core\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\Skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -151,14 +151,14 @@
         }
       }
     },
-    "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\DELL\\Desktop\\Skinet\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Skinet\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\Skinet\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\Skinet\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -179,8 +179,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\Core\\Core.csproj"
+              "C:\\Users\\DELL\\Desktop\\Skinet\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\DELL\\Desktop\\Skinet\\Core\\Core.csproj"
               }
             }
           }

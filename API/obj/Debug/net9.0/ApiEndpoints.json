@@ -47,25 +47,15 @@
   },
   {
     "ContainingType": "API.Controllers.ProductsController",
-    "Method": "UpdateProduct",
-    "RelativePath": "API/Products/{id }",
-    "HttpMethod": "PUT",
+    "Method": "GetProduct",
+    "RelativePath": "API/Products/{id}",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "Product",
-        "Type": "Core.Entities.Product",
-        "IsRequired": true
-      },
-      {
-        "Name": "id ",
-        "Type": "",
         "IsRequired": true
       }
     ],
@@ -83,15 +73,20 @@
   },
   {
     "ContainingType": "API.Controllers.ProductsController",
-    "Method": "GetProduct",
+    "Method": "UpdateProduct",
     "RelativePath": "API/Products/{id}",
-    "HttpMethod": "GET",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "id",
         "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Product",
+        "Type": "Core.Entities.Product",
         "IsRequired": true
       }
     ],

@@ -4786,11 +4786,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Skinet\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\API\\API.csproj",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\Skinet\\API\\API.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\API\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\Skinet\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4811,8 +4811,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\DELL\\Desktop\\Skinet\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Desktop\\Skinet\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

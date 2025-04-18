@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\ITI_.NET\\Skinet\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Skinet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7AF7A8-767C-46D1-AE07-45140CC404AF}|API\\API.csproj|c:\\users\\dell\\desktop\\skinet\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C7AF7A8-767C-46D1-AE07-45140CC404AF}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7AF7A8-767C-46D1-AE07-45140CC404AF}|API\\API.csproj|c:\\users\\dell\\desktop\\skinet\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7AF7A8-767C-46D1-AE07-45140CC404AF}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7AF7A8-767C-46D1-AE07-45140CC404AF}|API\\API.csproj|c:\\users\\dell\\desktop\\skinet\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7AF7A8-767C-46D1-AE07-45140CC404AF}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -29,19 +42,62 @@
         },
         {
           "DockedWidth": 313,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Skinet\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Skinet\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T18:39:45.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Skinet\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Skinet\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:13:31.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Skinet\\API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Skinet\\API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:11:03.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
