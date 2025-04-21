@@ -1,6 +1,7 @@
 ﻿using Core.Entities;
 using Core.Interfaces;
 using Infrastructure.Data;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -12,9 +13,9 @@ namespace API.Controllers
     {
     
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Product>>> GetProducts()
+        public async Task<ActionResult<IEnumerable<Product>>> GetProducts(string? brand ,string? type ,string ? sort)
         {
-            return Ok(await repo.GetProductsAsync());
+            return Ok(await repo.GetProductsAsync(brand, type ,sort));
 
         }
         [HttpGet("{id:int}")] 
@@ -49,6 +50,17 @@ namespace API.Controllers
             repo.DeleteProduct(product);
             if (await repo.SaveChangesAsync()) return NoContent();
             return BadRequest("problem in delete");
+        }
+
+        [HttpGet("brands")]
+        public async Task<ActionResult<IReadOnlyList<string>>> GetBrands()
+        {
+            return Ok(await repo.GetBrandsAsync());
+        }
+        [HttpGet("types")]
+        public async Task<ActionResult<IReadOnlyList<String>>> GetTypes()
+        {
+            return Ok(await repo.GetTypesAsync());
         }
 
 
